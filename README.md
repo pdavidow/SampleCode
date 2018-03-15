@@ -3,7 +3,6 @@
 **FUNCTIONAL**
 * Elm: https://github.com/pdavidow/btree
 * Haskell: https://github.com/pdavidow/piano
-* Haskell: https://github.com/pdavidow/othello
 * Ruby: https://github.com/pdavidow/SimpleEditor
 
 ---
