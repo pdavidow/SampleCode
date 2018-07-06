@@ -4,6 +4,7 @@
 * Elm: https://github.com/pdavidow/btree
 * Haskell: https://github.com/pdavidow/oth
 * Haskell: https://github.com/pdavidow/piano
+* PureScript: https://github.com/pdavidow/pure
 * Ruby: https://github.com/pdavidow/SimpleEditor
 
 ---
