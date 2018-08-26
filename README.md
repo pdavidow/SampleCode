@@ -10,7 +10,7 @@
 ---
 
 **OBJECT-ORIENTED**
-* JavaScript: https://github.com/pdavidow/mrr
+* ES6, React, Redux: https://github.com/pdavidow/mrr
 * Ruby, CoffeeScript: https://github.com/pdavidow/MetronomeApp
 * Ruby: https://github.com/pdavidow/ScanApp
 * Ruby: https://github.com/pdavidow/RecordProcessor
