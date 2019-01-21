@@ -1,7 +1,7 @@
 # SampleCode
 
 **FUNCTIONAL**
-* Elm: https://github.com/pdavidow/btree
+* Elm (large): https://github.com/pdavidow/btree
 * Haskell (large): https://github.com/pdavidow/oth
 * Haskell: https://github.com/pdavidow/cellGen1D
 * Haskell: https://github.com/pdavidow/heditor
