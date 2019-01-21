@@ -5,6 +5,7 @@
 * Haskell: https://github.com/pdavidow/oth
 * Haskell: https://github.com/pdavidow/cellGen1D
 * Haskell: https://github.com/pdavidow/heditor
+* Haskell: https://github.com/pdavidow/pTriangle
 * Haskell: https://github.com/pdavidow/romanNum
 * Haskell: https://github.com/pdavidow/piano
 * PureScript: https://github.com/pdavidow/pure
