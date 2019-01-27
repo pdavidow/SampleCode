@@ -5,7 +5,6 @@
 * Haskell (large): https://github.com/pdavidow/oth
 * Haskell: https://github.com/pdavidow/cellGen1D
 * Haskell: https://github.com/pdavidow/heditor
-* Haskell: https://github.com/pdavidow/pTriangle
 * Haskell: https://github.com/pdavidow/romanNum
 * Haskell: https://github.com/pdavidow/aoc3
 * Haskell: https://github.com/pdavidow/aoc18
