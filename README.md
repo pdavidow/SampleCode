@@ -3,7 +3,6 @@
 **FUNCTIONAL**
 * Elm (large): https://github.com/pdavidow/btree
 * Haskell (large): https://github.com/pdavidow/oth
-* Haskell: https://github.com/pdavidow/cellGen1D
 * Haskell: https://github.com/pdavidow/heditor
 * Haskell: https://github.com/pdavidow/pTriangle
 * Haskell: https://github.com/pdavidow/romanNum
