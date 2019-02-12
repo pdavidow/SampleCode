@@ -9,7 +9,6 @@
 * Haskell: https://github.com/pdavidow/romanNum
 * Haskell: https://github.com/pdavidow/aoc3
 * Haskell: https://github.com/pdavidow/aoc18
-* Haskell: https://github.com/pdavidow/piano
 * PureScript (large): https://github.com/pdavidow/pure
 * Ruby: https://github.com/pdavidow/SimpleEditor
 
